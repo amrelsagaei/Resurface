@@ -15,7 +15,7 @@ export default defineConfig({
   name: "Resurface",
   description:
     "Plant a canary token and get alerted when it resurfaces in later traffic.",
-  version: "1.0.0",
+  version: "1.0.1",
   author: {
     name: "Amr Elsagaei",
     email: "info@amrelsagaei.com",
